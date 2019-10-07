@@ -1,6 +1,6 @@
 
 
-<img align="center">oeresund.png</img>
+<img align="center" src="oeresund.png"/>
 
 A place to work on a new cross-border local chapter of ACM.
 
