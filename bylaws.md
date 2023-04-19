@@ -1,7 +1,7 @@
 # Navn, formål, hjemsted og aktiviteter
 Foreningens navn er The Oeresund Local Chapter of Association for Computing Machinery, og anvender også binavnene ACM Øresund, ACM Öresund or ACM ø̈resund.
 
-Foreningens formål er at være et lokalt forum for diskussioner, debataer og dialog om computings issues, impact and opportunities for medlemmer af den internationale organisation Assocication for Computing Machinery, Inc. registreret i Delaware, USA. 
+Foreningens formål er at være et lokalt forum for diskussion, debat og dialog om den elektroniske regnemaskines fremtidige udvikling, udfordringer og muligheder for medlemmer af den internationale organisation Assocication for Computing Machinery, Inc. registreret i Delaware, USA. 
 
 Foreningens hjemsted er (indtil videre) Copenhagen, Denmark.
 
